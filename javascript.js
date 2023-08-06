@@ -13213,7 +13213,7 @@
                         _.jsx)("div", {
                             className: "bg-".concat("dark" === e.mode ? "h-blue" : "light-silver", "  text-").concat("dark" === e.mode ? "white" : "blue", " hover:cursor-pointer mt-2.5 text-xl  ").concat("dark" === e.mode ? "hover:text-f-blue" : "hover:text-silver-shadow"),
                             onClick: function() {
-                                return window.open("https://devhomoeohall.netlify.app/")
+                                return window.open("https://amanherenj09.github.io/Recipe-Guide/")
                             },
                             children: (0,
                             _.jsx)("h2", {
@@ -13223,7 +13223,7 @@
                         _.jsx)("div", {
                             className: "bg-".concat("dark" === e.mode ? "h-blue" : "light-silver", "  text-").concat("dark" === e.mode ? "white" : "blue", " hover:cursor-pointer mt-2.5 text-xl  ").concat("dark" === e.mode ? "hover:text-f-blue" : "hover:text-silver-shadow"),
                             onClick: function() {
-                                return window.open("https://github.com/kshboo683/Dev-Homoeo-Hall")
+                                return window.open("https://github.com/Amanherenj09/Recipe-Guide")
                             },
                             children: (0,
                             _.jsx)("h2", {
