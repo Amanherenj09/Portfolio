@@ -13178,7 +13178,7 @@
                             className: "h-1/2 text-xl  font-acme p-2",
                             children: (0,
                             _.jsx)("h1", {
-                                children: "Dev Homoeo Hall"
+                                children: "Recipe Guide"
                             })
                         }), (0,
                         _.jsxs)("div", {
