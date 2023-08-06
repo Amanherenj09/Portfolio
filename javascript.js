@@ -13443,7 +13443,7 @@
                             className: "h-1/2 text-xl font-acme p-2",
                             children: (0,
                             _.jsx)("h1", {
-                                children: "Text Utils"
+                                children: "Type Test"
                             })
                         }), (0,
                         _.jsxs)("div", {
@@ -13468,7 +13468,7 @@
                         _.jsx)("div", {
                             className: "bg-".concat("dark" === e.mode ? "h-blue" : "light-silver", "  text-").concat("dark" === e.mode ? "white" : "blue", " hover:cursor-pointer mt-2.5 text-xl  ").concat("dark" === e.mode ? "hover:text-f-blue" : "hover:text-silver-shadow"),
                             onClick: function() {
-                                return window.open("https://justtext.netlify.app")
+                                return window.open("https://amanherenj09.github.io/Type-Test/")
                             },
                             children: (0,
                             _.jsx)("h2", {
@@ -13478,7 +13478,7 @@
                         _.jsx)("div", {
                             className: "bg-".concat("dark" === e.mode ? "h-blue" : "light-silver", "  text-").concat("dark" === e.mode ? "white" : "blue", " hover:cursor-pointer mt-2.5 text-xl  ").concat("dark" === e.mode ? "hover:text-f-blue" : "hover:text-silver-shadow"),
                             onClick: function() {
-                                return window.open("https://github.com/khuso683/Text-Utils")
+                                return window.open("https://github.com/Amanherenj09/Type-Test")
                             },
                             children: (0,
                             _.jsx)("h2", {
