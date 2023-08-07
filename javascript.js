@@ -10650,6 +10650,7 @@
                                         eventArgs: t || {}
                                     };
                                     return w.state[r] = n ? [o].concat(k(w.state[r])) : [].concat(k(w.state[r]), [o]),
+                                    w
                                 }
                                 )),
                                 _(this, "runEventLoop", (function() {
@@ -11248,7 +11249,7 @@
                                 var d = s[f];
                                 if (!(u ? d in t : o.call(t, d)))
                                     return !1
-                            }
+                           }
                             var p = l.get(e)
                               , h = l.get(t);
                             if (p && h)
