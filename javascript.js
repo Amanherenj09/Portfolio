@@ -10650,7 +10650,6 @@
                                         eventArgs: t || {}
                                     };
                                     return w.state[r] = n ? [o].concat(k(w.state[r])) : [].concat(k(w.state[r]), [o]),
-                                    w
                                 }
                                 )),
                                 _(this, "runEventLoop", (function() {
