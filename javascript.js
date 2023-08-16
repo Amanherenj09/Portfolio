@@ -12770,7 +12770,7 @@
                         _.jsx)("li", {
                             className: "mx-2 hover:bg-h-blue rounded-md p-2",
                             onClick: function() {
-                                return window.open("https://docs.google.com/document/d/1Juxg8QqmbG0iEi4psWUTLJkPmF43gYv_W7otLzNdRdc/edit?usp=sharing")
+                                return window.open("https://drive.google.com/file/d/1PEnZUk2G0j-NXLxW3pWt7NHD3WPyV-7C/view?usp=sharing")
                             },
                             children: (0,
                             _.jsx)("a", {
