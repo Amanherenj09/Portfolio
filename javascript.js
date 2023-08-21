@@ -12698,7 +12698,7 @@
                             _.jsx)("li", {
                                 className: "mx-2 hover:bg-".concat("dark" === t.mode ? "h-blue" : "silver", " hover:cursor-pointer rounded-md p-2"),
                                 onClick: function() {
-                                    return window.open("https://drive.google.com/file/d/1PEnZUk2G0j-NXLxW3pWt7NHD3WPyV-7C/view")
+                                    return window.open("https://drive.google.com/file/d/15oh1LA-aDIrViaaQAgOPEfsH1vlrO_YS/view?usp=sharing")
                                 },
                                 children: (0,
                                 _.jsx)("a", {
@@ -12770,7 +12770,7 @@
                         _.jsx)("li", {
                             className: "mx-2 hover:bg-h-blue rounded-md p-2",
                             onClick: function() {
-                                return window.open("https://drive.google.com/file/d/1PEnZUk2G0j-NXLxW3pWt7NHD3WPyV-7C/view?usp=sharing")
+                                return window.open("https://drive.google.com/file/d/15oh1LA-aDIrViaaQAgOPEfsH1vlrO_YS/view?usp=sharing")
                             },
                             children: (0,
                             _.jsx)("a", {
